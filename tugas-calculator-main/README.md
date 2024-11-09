@@ -1,1 +1,2 @@
 # tugas-calculator
+Tugas kalkulator biasanya adalah proyek pemrograman yang melibatkan pembuatan aplikasi sederhana yang dapat melakukan operasi aritmatika dasar, seperti penjumlahan, pengurangan, perkalian, dan pembagian. Proyek ini bertujuan untuk memperkuat pemahaman mahasiswa dalam konsep pemrograman dasar, seperti penggunaan variabel, kondisi, fungsi, serta antarmuka pengguna jika dibuat dengan GUI. Selain itu, proyek ini juga melatih keterampilan debugging dan pemahaman logika dasar yang penting dalam pengembangan aplikasi.
